@@ -1,2 +1,4 @@
 # GraduationProject
-the project for graduation,complete 
+the project for graduation,completed on 2016/05/16
+
+a data management system based on java awt,swing.
